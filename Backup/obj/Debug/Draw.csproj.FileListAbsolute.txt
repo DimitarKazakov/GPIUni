@@ -1,0 +1,5 @@
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\Backup\obj\Debug\Draw.csprojAssemblyReference.cache
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\Backup\obj\Debug\Draw.DoubleBufferedPanel.resources
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\Backup\obj\Debug\Draw.MainForm.resources
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\Backup\obj\Debug\Draw.csproj.GenerateResource.cache
+C:\Users\ТЕОДОРА\Desktop\C#\VisualStudio2008-WinForms\Backup\obj\Debug\Draw.csproj.CoreCompileInputs.cache
